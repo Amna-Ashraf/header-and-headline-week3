@@ -1,0 +1,22 @@
+.header{
+    width: 375px;
+    height: 48px;
+    top: 44px;
+    padding: 4px, 24px, 4px, 12px;
+}
+.icon{
+    width: Hug (100px);
+    height: Hug (40px);
+    margin-top: 4px;
+    margin-left: 12px;
+    padding: 10px, 12px, 10px, 12px;
+}
+.logo{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #6070FF;
+}
